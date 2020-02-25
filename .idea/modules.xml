@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ControlFlowStatements/ControlFlowStatements.iml" filepath="$PROJECT_DIR$/ControlFlowStatements/ControlFlowStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExpressionsStatementsCodeblockMmethodsAndMore/ExpressionsStatementsCodeblockMmethodsAndMore.iml" filepath="$PROJECT_DIR$/ExpressionsStatementsCodeblockMmethodsAndMore/ExpressionsStatementsCodeblockMmethodsAndMore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstSteps/FirstSteps.iml" filepath="$PROJECT_DIR$/FirstSteps/FirstSteps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPPart1/OOPPart1.iml" filepath="$PROJECT_DIR$/OOPPart1/OOPPart1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimBuchalkaJava.iml" filepath="$PROJECT_DIR$/TimBuchalkaJava.iml" />
+    </modules>
+  </component>
+</project>
